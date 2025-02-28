@@ -1,3 +1,3 @@
 ---
 kubeconfig: ""
-cli_image: "registry-proxy.engineering.redhat.com/rh-osbs/service-interconnect-cli-rhel9:2.0.0-1"
+cli_image: "brew.registry.redhat.io/rh-osbs/service-interconnect-cli-rhel9:2.0.0-1"
