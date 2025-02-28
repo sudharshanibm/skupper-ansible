@@ -1,3 +1,3 @@
 ---
-kubeconfig: ""
-cli_image: "brew.registry.redhat.io/rh-osbs/service-interconnect-cli-rhel9:2.0.0-1"
+kubeconfig: "/root/.kube/config"
+cli_image: "quay.io/rhn-support-rjauhari/cli:v2-dev"
